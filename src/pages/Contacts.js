@@ -20,7 +20,7 @@ const Contacts = () => {
                         <h2 className="title-2">Email</h2>
                         <p><a href="Zhulaeve2006@gmail.com">Zhulaeve2006@gmail.com</a></p>
                     </li>
-                    <li className="content-list__item">
+                    <li className="content-list__item"> 
                         <h2 className="title-2">Work</h2>
                         <p><a href="https://hh.kz/resume/26b71e15ff0b0344810039ed1f357a3651716e" target='blank'>HeadHunter</a></p>
                     </li>

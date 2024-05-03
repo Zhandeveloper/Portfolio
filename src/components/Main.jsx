@@ -10,10 +10,7 @@ const Main = () => {
               <h2 className="title-2">Frontend</h2>
               <p>HTML, CSS, JavaScript  and ReactJS</p>
             </li>
-            <li className="content-list__item">
-              <h2 className="title-2">Backend</h2>
-              <p>Django-Python</p>
-            </li>
+            
           </ul>
         </div>
       </main>

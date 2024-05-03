@@ -1,15 +1,15 @@
-import resume from '../../img/projects/resume.PNG'
+import TodoApp from '../../img/projects/TodoApp.png'
 import tic_tac_toe from '../../img/projects/Tic_tac_toe.JPG'
 import notes from '../../img/projects/Notes.JPG'
-import weather from '../../img/projects/weather.JPG'
+import weather from '../../img/projects/weather.png'
 import movie from '../../img/projects/Movie.JPG'
 import quiz from '../../img/projects/quiz.JPG'
 // ../../img/projects/
 
 const projects_m=[
     {
-        title:"Quiz with react",
-        skills:"HTML,CSS,JavaScript and React",
+        title:"Quiz",
+        skills:"HTML,CSS and ReactJS",
         img:quiz,
         SiteLink:"https://quiz-on-react-my1.vercel.app/",
         gitHubLink:"https://github.com/Zhandeveloper/Quiz-on-React-my1",
@@ -26,11 +26,11 @@ const projects_m=[
 
     },
     {
-        title:"Weather site",
-        skills:"HTML,CSS and JavaScript",
+        title:"Weather app",
+        skills:"HTML,CSS and ReactJS",
         img:weather,
-        SiteLink:"https://zhandeveloper.github.io/Weather-site/",
-        gitHubLink:"https://github.com/Zhandeveloper/Weather-site",
+        SiteLink:"https://zhan-weather-app.vercel.app/",
+        gitHubLink:"https://github.com/Zhandeveloper/Weather-App",
         id:3
 
     },
@@ -53,11 +53,11 @@ const projects_m=[
 
     },
     {
-        title:"Resume",
-        skills:"HTML,CSS",
-        img:resume,
-        SiteLink:"https://zhandeveloper.github.io/My-resume/",
-        gitHubLink:"https://github.com/Zhandeveloper/My-resume",
+        title:"Todo",
+        skills:"HTML,CSS and ReactJS",
+        img:TodoApp,
+        SiteLink:"https://todo-app-xi-coral.vercel.app",
+        gitHubLink:"https://github.com/Zhandeveloper/Todo-app",
         id:6
 
     },
