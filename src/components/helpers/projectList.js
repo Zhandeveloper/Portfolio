@@ -4,6 +4,7 @@ import notes from '../../img/projects/Notes.JPG'
 import weather from '../../img/projects/weather.png'
 import movie from '../../img/projects/Movie.JPG'
 import quiz from '../../img/projects/quiz.JPG'
+import anime_app from '../../img/projects/Anime-app.jpg'
 // ../../img/projects/
 
 const projects_m=[
@@ -18,7 +19,7 @@ const projects_m=[
     },
     {
         title:"Movie site",
-        skills:"HTML,CSS and JavaScript",
+        skills:"HTML,CSS,JavaScript and API",
         img:movie,
         SiteLink:"https://zhandeveloper.github.io/MovieSite/",
         gitHubLink:"https://github.com/Zhandeveloper/MovieSite",
@@ -27,7 +28,7 @@ const projects_m=[
     },
     {
         title:"Weather app",
-        skills:"HTML,CSS and ReactJS",
+        skills:"HTML,CSS,ReactJS and API",
         img:weather,
         SiteLink:"https://zhan-weather-app.vercel.app/",
         gitHubLink:"https://github.com/Zhandeveloper/Weather-App",
@@ -59,8 +60,16 @@ const projects_m=[
         SiteLink:"https://todo-app-xi-coral.vercel.app",
         gitHubLink:"https://github.com/Zhandeveloper/Todo-app",
         id:6
-
     },
+    {
+        title:"Anime App",
+        skills:"HTML,CSS,ReactJS and API",
+        img:anime_app,
+        SiteLink:"https://zhan-anime-app.vercel.app/",
+        gitHubLink:"https://github.com/Zhandeveloper/Anime-app",
+        id:7
+    },
+    
 ]
 
 export {projects_m}
