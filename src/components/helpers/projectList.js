@@ -5,6 +5,7 @@ import weather from '../../img/projects/weather.png'
 import movie from '../../img/projects/Movie.JPG'
 import quiz from '../../img/projects/quiz.JPG'
 import anime_app from '../../img/projects/Anime-app.jpg'
+import recipe_app from '../../img/projects/Recipe.jpg'
 // ../../img/projects/
 
 const projects_m=[
@@ -69,7 +70,14 @@ const projects_m=[
         gitHubLink:"https://github.com/Zhandeveloper/Anime-app",
         id:7
     },
-    
+    {
+    title:"Recipe App",
+    skills:"HTML,CSS,ReactJS and API",
+    img:recipe_app,
+    SiteLink:"https://recipe-app-zhan.vercel.app/",
+    gitHubLink:"https://github.com/Zhandeveloper/Recipe-App",
+    id:8
+    }  
 ]
 
 export {projects_m}
