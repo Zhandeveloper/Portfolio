@@ -8,7 +8,7 @@ const Main = () => {
           <ul className="content-list">
             <li className="content-list__item">
               <h2 className="title-2">Frontend</h2>
-              <p>HTML, CSS, JavaScript  and ReactJS</p>
+              <p>HTML, CSS, JavaScript, TypeScript and ReactJS</p>
             </li>
             
           </ul>
